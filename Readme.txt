@@ -1,0 +1,1 @@
+sosyal medya hesaplarınıza erişim için logininfo.py dosyalarındaki username ve password alanlarını güncelleyin..
